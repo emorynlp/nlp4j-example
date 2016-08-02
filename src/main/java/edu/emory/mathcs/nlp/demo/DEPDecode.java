@@ -17,12 +17,12 @@ package edu.emory.mathcs.nlp.demo;
 
 import edu.emory.mathcs.nlp.common.util.IOUtils;
 import edu.emory.mathcs.nlp.common.util.Joiner;
+import edu.emory.mathcs.nlp.common.util.NLPUtils;
 import edu.emory.mathcs.nlp.component.template.NLPComponent;
 import edu.emory.mathcs.nlp.component.template.config.NLPConfig;
 import edu.emory.mathcs.nlp.component.template.node.NLPNode;
 import edu.emory.mathcs.nlp.component.template.reader.NLPReader;
 import edu.emory.mathcs.nlp.component.template.reader.TSVReader;
-import edu.emory.mathcs.nlp.decode.NLPUtils;
 
 /**
  * @author Jinho D. Choi ({@code jinho.choi@emory.edu})
